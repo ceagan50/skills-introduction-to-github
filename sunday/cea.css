@@ -1,0 +1,13 @@
+.ok{
+    background-image: linear-gradient(to right,dodgerblue,rgb(255, 255, 147));
+    width:100%;
+    height:400px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+h1{
+    color:white;
+    font-size: 40px;
+    
+}
